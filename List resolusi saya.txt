@@ -1,4 +1,4 @@
 Resolusi saya (YO8) pada tahun 2021 ke depannya:
-- Membuat sebuah project website dengan HTML, CSS, dan JavaScript, salah satu web tersebut yaitu Tribute Web Page.
+- Membuat website sendiri dengan domain sendiri
 - Kolaborasi dengan teman developer saya dimana dapat membuat project website nantinya.
 - Membuat sebuah repo dimana isinya latihan yang telah saya kerjakan  selama semester 2 di kuliah saya.
