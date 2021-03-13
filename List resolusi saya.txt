@@ -1,4 +1,5 @@
 Resolusi saya (YO8) pada tahun 2021 ke depannya:
-- Membuat website sendiri dengan domain sendiri
+- Membuat website sendiri dengan domain sendiri menggunakan framework CSS (Bootstrap) dan Javascript (React JS).
 - Kolaborasi dengan teman developer saya dimana dapat membuat project website nantinya.
 - Membuat sebuah repo dimana isinya latihan yang telah saya kerjakan  selama semester 2 di kuliah saya.
+- Membuat beberapa website nantinya menggunakan framework javascript, yaitu React JS.
